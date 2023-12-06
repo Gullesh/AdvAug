@@ -1,0 +1,737 @@
+Namespace(data='cifar10', model='wrn', re=False, cutout=False, batch_size=128, gbox=False, gboxadv=False, sal=False, rescle=False, length=16, pexp=0.25, stepoch=0, a=None)
+None
+Files already downloaded and verified
+Files already downloaded and verified
+==> Building model..
+
+[ Train epoch: 0 ]
+
+Total adversarial train accuarcy: 20.738
+Total adversarial train loss: 831.1691999435425
+
+[ Test epoch: 0 ]
+
+Total benign test accuarcy: 35.19
+Total adversarial test Accuarcy: 25.43
+Total benign test loss: 34.72125947475433
+Total adversarial test loss: 39.536059975624084
+Model Saved!
+epoch  0 : best benign and adv accuracy:  35.19 ,  25.43
+epoch  0 : benign and best adv accuracy:  35.19 ,  25.43
+
+[ Train epoch: 1 ]
+
+Total adversarial train accuarcy: 26.766
+Total adversarial train loss: 759.8163803815842
+
+[ Test epoch: 1 ]
+
+Total benign test accuarcy: 44.03
+Total adversarial test Accuarcy: 28.68
+Total benign test loss: 30.589006543159485
+Total adversarial test loss: 38.02845776081085
+Model Saved!
+epoch  1 : best benign and adv accuracy:  44.03 ,  28.68
+epoch  1 : benign and best adv accuracy:  44.03 ,  28.68
+
+[ Train epoch: 2 ]
+
+Total adversarial train accuarcy: 30.888
+Total adversarial train loss: 716.7915436029434
+
+[ Test epoch: 2 ]
+
+Total benign test accuarcy: 50.0
+Total adversarial test Accuarcy: 33.31
+Total benign test loss: 27.237135529518127
+Total adversarial test loss: 35.330654978752136
+Model Saved!
+epoch  2 : best benign and adv accuracy:  50.0 ,  33.31
+epoch  2 : benign and best adv accuracy:  50.0 ,  33.31
+
+[ Train epoch: 3 ]
+
+Total adversarial train accuarcy: 33.778
+Total adversarial train loss: 683.9429188966751
+
+[ Test epoch: 3 ]
+
+Total benign test accuarcy: 54.8
+Total adversarial test Accuarcy: 34.27
+Total benign test loss: 25.51027500629425
+Total adversarial test loss: 34.61447823047638
+Model Saved!
+epoch  3 : best benign and adv accuracy:  54.8 ,  34.27
+epoch  3 : benign and best adv accuracy:  54.8 ,  34.27
+
+[ Train epoch: 4 ]
+
+Total adversarial train accuarcy: 36.51
+Total adversarial train loss: 654.6813303232193
+
+[ Test epoch: 4 ]
+
+Total benign test accuarcy: 58.8
+Total adversarial test Accuarcy: 37.19
+Total benign test loss: 23.418577075004578
+Total adversarial test loss: 33.29701900482178
+Model Saved!
+epoch  4 : best benign and adv accuracy:  58.8 ,  37.19
+epoch  4 : benign and best adv accuracy:  58.8 ,  37.19
+
+[ Train epoch: 5 ]
+
+Total adversarial train accuarcy: 38.448
+Total adversarial train loss: 634.4736791849136
+
+[ Test epoch: 5 ]
+
+Total benign test accuarcy: 61.82
+Total adversarial test Accuarcy: 39.03
+Total benign test loss: 22.066494345664978
+Total adversarial test loss: 32.25753176212311
+Model Saved!
+epoch  5 : best benign and adv accuracy:  61.82 ,  39.03
+epoch  5 : benign and best adv accuracy:  61.82 ,  39.03
+
+[ Train epoch: 6 ]
+
+Total adversarial train accuarcy: 40.224
+Total adversarial train loss: 616.9020783901215
+
+[ Test epoch: 6 ]
+
+Total benign test accuarcy: 66.79
+Total adversarial test Accuarcy: 41.92
+Total benign test loss: 21.657904624938965
+Total adversarial test loss: 31.04473340511322
+Model Saved!
+epoch  6 : best benign and adv accuracy:  66.79 ,  41.92
+epoch  6 : benign and best adv accuracy:  66.79 ,  41.92
+
+[ Train epoch: 7 ]
+
+Total adversarial train accuarcy: 41.71
+Total adversarial train loss: 599.22789311409
+
+[ Test epoch: 7 ]
+
+Total benign test accuarcy: 69.8
+Total adversarial test Accuarcy: 42.49
+Total benign test loss: 19.425594806671143
+Total adversarial test loss: 30.342300534248352
+Model Saved!
+epoch  7 : best benign and adv accuracy:  69.8 ,  42.49
+epoch  7 : benign and best adv accuracy:  69.8 ,  42.49
+
+[ Train epoch: 8 ]
+
+Total adversarial train accuarcy: 42.832
+Total adversarial train loss: 586.376505613327
+
+[ Test epoch: 8 ]
+
+Total benign test accuarcy: 68.87
+Total adversarial test Accuarcy: 42.09
+Total benign test loss: 19.457735240459442
+Total adversarial test loss: 30.12345552444458
+Model Saved!
+
+[ Train epoch: 9 ]
+
+Total adversarial train accuarcy: 44.28
+Total adversarial train loss: 573.6866133213043
+
+[ Test epoch: 9 ]
+
+Total benign test accuarcy: 69.37
+Total adversarial test Accuarcy: 43.65
+Total benign test loss: 18.620673418045044
+Total adversarial test loss: 29.736691117286682
+Model Saved!
+epoch  9 : benign and best adv accuracy:  69.37 ,  43.65
+
+[ Train epoch: 10 ]
+
+Total adversarial train accuarcy: 45.118
+Total adversarial train loss: 562.265259385109
+
+[ Test epoch: 10 ]
+
+Total benign test accuarcy: 70.28
+Total adversarial test Accuarcy: 45.27
+Total benign test loss: 18.32468491792679
+Total adversarial test loss: 28.954054951667786
+Model Saved!
+epoch  10 : best benign and adv accuracy:  70.28 ,  45.27
+epoch  10 : benign and best adv accuracy:  70.28 ,  45.27
+
+[ Train epoch: 11 ]
+
+Total adversarial train accuarcy: 46.24
+Total adversarial train loss: 550.2132558822632
+
+[ Test epoch: 11 ]
+
+Total benign test accuarcy: 69.89
+Total adversarial test Accuarcy: 43.76
+Total benign test loss: 18.402816355228424
+Total adversarial test loss: 29.511424899101257
+Model Saved!
+
+[ Train epoch: 12 ]
+
+Total adversarial train accuarcy: 47.192
+Total adversarial train loss: 540.6998567581177
+
+[ Test epoch: 12 ]
+
+Total benign test accuarcy: 71.66
+Total adversarial test Accuarcy: 47.21
+Total benign test loss: 17.800197064876556
+Total adversarial test loss: 28.344362139701843
+Model Saved!
+epoch  12 : best benign and adv accuracy:  71.66 ,  47.21
+epoch  12 : benign and best adv accuracy:  71.66 ,  47.21
+
+[ Train epoch: 13 ]
+
+Total adversarial train accuarcy: 47.916
+Total adversarial train loss: 533.253368973732
+
+[ Test epoch: 13 ]
+
+Total benign test accuarcy: 73.65
+Total adversarial test Accuarcy: 46.74
+Total benign test loss: 16.76695227622986
+Total adversarial test loss: 28.281593203544617
+Model Saved!
+epoch  13 : best benign and adv accuracy:  73.65 ,  46.74
+
+[ Train epoch: 14 ]
+
+Total adversarial train accuarcy: 48.83
+Total adversarial train loss: 523.7277075052261
+
+[ Test epoch: 14 ]
+
+Total benign test accuarcy: 74.01
+Total adversarial test Accuarcy: 46.09
+Total benign test loss: 16.919717371463776
+Total adversarial test loss: 28.444446921348572
+Model Saved!
+epoch  14 : best benign and adv accuracy:  74.01 ,  46.09
+
+[ Train epoch: 15 ]
+
+Total adversarial train accuarcy: 49.578
+Total adversarial train loss: 515.9007536172867
+
+[ Test epoch: 15 ]
+
+Total benign test accuarcy: 72.51
+Total adversarial test Accuarcy: 46.36
+Total benign test loss: 16.954087018966675
+Total adversarial test loss: 28.459770679473877
+Model Saved!
+
+[ Train epoch: 16 ]
+
+Total adversarial train accuarcy: 50.188
+Total adversarial train loss: 509.35973060131073
+
+[ Test epoch: 16 ]
+
+Total benign test accuarcy: 76.0
+Total adversarial test Accuarcy: 48.42
+Total benign test loss: 15.354577898979187
+Total adversarial test loss: 27.497578144073486
+Model Saved!
+epoch  16 : best benign and adv accuracy:  76.0 ,  48.42
+epoch  16 : benign and best adv accuracy:  76.0 ,  48.42
+
+[ Train epoch: 17 ]
+
+Total adversarial train accuarcy: 51.054
+Total adversarial train loss: 500.4831519126892
+
+[ Test epoch: 17 ]
+
+Total benign test accuarcy: 77.79
+Total adversarial test Accuarcy: 47.96
+Total benign test loss: 15.327068328857422
+Total adversarial test loss: 27.379101037979126
+Model Saved!
+epoch  17 : best benign and adv accuracy:  77.79 ,  47.96
+
+[ Train epoch: 18 ]
+
+Total adversarial train accuarcy: 51.318
+Total adversarial train loss: 493.91374385356903
+
+[ Test epoch: 18 ]
+
+Total benign test accuarcy: 75.81
+Total adversarial test Accuarcy: 48.45
+Total benign test loss: 15.14387047290802
+Total adversarial test loss: 27.447944045066833
+Model Saved!
+epoch  18 : benign and best adv accuracy:  75.81 ,  48.45
+
+[ Train epoch: 19 ]
+
+Total adversarial train accuarcy: 51.886
+Total adversarial train loss: 487.4960744380951
+
+[ Test epoch: 19 ]
+
+Total benign test accuarcy: 76.86
+Total adversarial test Accuarcy: 49.27
+Total benign test loss: 15.277189016342163
+Total adversarial test loss: 27.148816108703613
+Model Saved!
+epoch  19 : benign and best adv accuracy:  76.86 ,  49.27
+
+[ Train epoch: 20 ]
+
+Total adversarial train accuarcy: 52.396
+Total adversarial train loss: 481.9183420538902
+
+[ Test epoch: 20 ]
+
+Total benign test accuarcy: 77.62
+Total adversarial test Accuarcy: 48.95
+Total benign test loss: 14.82337635755539
+Total adversarial test loss: 26.921551942825317
+Model Saved!
+
+[ Train epoch: 21 ]
+
+Total adversarial train accuarcy: 53.036
+Total adversarial train loss: 474.54791539907455
+
+[ Test epoch: 21 ]
+
+Total benign test accuarcy: 75.49
+Total adversarial test Accuarcy: 47.91
+Total benign test loss: 15.091376423835754
+Total adversarial test loss: 27.443914890289307
+Model Saved!
+
+[ Train epoch: 22 ]
+
+Total adversarial train accuarcy: 53.464
+Total adversarial train loss: 470.8858667612076
+
+[ Test epoch: 22 ]
+
+Total benign test accuarcy: 77.75
+Total adversarial test Accuarcy: 50.21
+Total benign test loss: 14.208936512470245
+Total adversarial test loss: 26.469788908958435
+Model Saved!
+epoch  22 : benign and best adv accuracy:  77.75 ,  50.21
+
+[ Train epoch: 23 ]
+
+Total adversarial train accuarcy: 53.888
+Total adversarial train loss: 464.4765974879265
+
+[ Test epoch: 23 ]
+
+Total benign test accuarcy: 78.6
+Total adversarial test Accuarcy: 48.68
+Total benign test loss: 13.940429449081421
+Total adversarial test loss: 27.231982707977295
+Model Saved!
+epoch  23 : best benign and adv accuracy:  78.6 ,  48.68
+
+[ Train epoch: 24 ]
+
+Total adversarial train accuarcy: 54.272
+Total adversarial train loss: 459.85368275642395
+
+[ Test epoch: 24 ]
+
+Total benign test accuarcy: 79.03
+Total adversarial test Accuarcy: 49.75
+Total benign test loss: 14.291147112846375
+Total adversarial test loss: 27.103540062904358
+Model Saved!
+epoch  24 : best benign and adv accuracy:  79.03 ,  49.75
+
+[ Train epoch: 25 ]
+
+Total adversarial train accuarcy: 55.012
+Total adversarial train loss: 454.17817211151123
+
+[ Test epoch: 25 ]
+
+Total benign test accuarcy: 77.58
+Total adversarial test Accuarcy: 50.43
+Total benign test loss: 14.274225950241089
+Total adversarial test loss: 26.566487908363342
+Model Saved!
+epoch  25 : benign and best adv accuracy:  77.58 ,  50.43
+
+[ Train epoch: 26 ]
+
+Total adversarial train accuarcy: 54.828
+Total adversarial train loss: 451.2050219774246
+
+[ Test epoch: 26 ]
+
+Total benign test accuarcy: 78.89
+Total adversarial test Accuarcy: 49.31
+Total benign test loss: 13.235955595970154
+Total adversarial test loss: 26.858567237854004
+Model Saved!
+
+[ Train epoch: 27 ]
+
+Total adversarial train accuarcy: 55.452
+Total adversarial train loss: 445.65986263751984
+
+[ Test epoch: 27 ]
+
+Total benign test accuarcy: 79.11
+Total adversarial test Accuarcy: 50.94
+Total benign test loss: 13.460122108459473
+Total adversarial test loss: 26.232961058616638
+Model Saved!
+epoch  27 : best benign and adv accuracy:  79.11 ,  50.94
+epoch  27 : benign and best adv accuracy:  79.11 ,  50.94
+
+[ Train epoch: 28 ]
+
+Total adversarial train accuarcy: 55.968
+Total adversarial train loss: 440.53228747844696
+
+[ Test epoch: 28 ]
+
+Total benign test accuarcy: 81.28
+Total adversarial test Accuarcy: 51.25
+Total benign test loss: 13.420343339443207
+Total adversarial test loss: 25.911487221717834
+Model Saved!
+epoch  28 : best benign and adv accuracy:  81.28 ,  51.25
+epoch  28 : benign and best adv accuracy:  81.28 ,  51.25
+
+[ Train epoch: 29 ]
+
+Total adversarial train accuarcy: 56.152
+Total adversarial train loss: 436.3463769555092
+
+[ Test epoch: 29 ]
+
+Total benign test accuarcy: 78.59
+Total adversarial test Accuarcy: 49.24
+Total benign test loss: 14.128505647182465
+Total adversarial test loss: 26.97770345211029
+Model Saved!
+
+[ Train epoch: 30 ]
+
+Total adversarial train accuarcy: 56.612
+Total adversarial train loss: 431.5358529686928
+
+[ Test epoch: 30 ]
+
+Total benign test accuarcy: 79.61
+Total adversarial test Accuarcy: 50.99
+Total benign test loss: 13.282429873943329
+Total adversarial test loss: 26.683665871620178
+Model Saved!
+
+[ Train epoch: 31 ]
+
+Total adversarial train accuarcy: 57.096
+Total adversarial train loss: 426.42161643505096
+
+[ Test epoch: 31 ]
+
+Total benign test accuarcy: 79.96
+Total adversarial test Accuarcy: 51.79
+Total benign test loss: 12.661775588989258
+Total adversarial test loss: 26.27841567993164
+Model Saved!
+epoch  31 : benign and best adv accuracy:  79.96 ,  51.79
+
+[ Train epoch: 32 ]
+
+Total adversarial train accuarcy: 57.264
+Total adversarial train loss: 424.15263336896896
+
+[ Test epoch: 32 ]
+
+Total benign test accuarcy: 81.17
+Total adversarial test Accuarcy: 50.89
+Total benign test loss: 12.54261338710785
+Total adversarial test loss: 26.343191862106323
+Model Saved!
+
+[ Train epoch: 33 ]
+
+Total adversarial train accuarcy: 57.682
+Total adversarial train loss: 418.4625573158264
+
+[ Test epoch: 33 ]
+
+Total benign test accuarcy: 80.98
+Total adversarial test Accuarcy: 50.37
+Total benign test loss: 12.732251107692719
+Total adversarial test loss: 27.108699798583984
+Model Saved!
+
+[ Train epoch: 34 ]
+
+Total adversarial train accuarcy: 58.062
+Total adversarial train loss: 414.40022110939026
+
+[ Test epoch: 34 ]
+
+Total benign test accuarcy: 81.41
+Total adversarial test Accuarcy: 50.38
+Total benign test loss: 12.230462610721588
+Total adversarial test loss: 26.712157607078552
+Model Saved!
+epoch  34 : best benign and adv accuracy:  81.41 ,  50.38
+
+[ Train epoch: 35 ]
+
+Total adversarial train accuarcy: 58.188
+Total adversarial train loss: 410.2878603339195
+
+[ Test epoch: 35 ]
+
+Total benign test accuarcy: 80.93
+Total adversarial test Accuarcy: 50.25
+Total benign test loss: 12.989015519618988
+Total adversarial test loss: 27.0284765958786
+Model Saved!
+
+[ Train epoch: 36 ]
+
+Total adversarial train accuarcy: 58.452
+Total adversarial train loss: 408.7870184779167
+
+[ Test epoch: 36 ]
+
+Total benign test accuarcy: 81.79
+Total adversarial test Accuarcy: 51.02
+Total benign test loss: 13.128881514072418
+Total adversarial test loss: 26.47053360939026
+Model Saved!
+epoch  36 : best benign and adv accuracy:  81.79 ,  51.02
+
+[ Train epoch: 37 ]
+
+Total adversarial train accuarcy: 58.898
+Total adversarial train loss: 403.6949653029442
+
+[ Test epoch: 37 ]
+
+Total benign test accuarcy: 81.01
+Total adversarial test Accuarcy: 51.11
+Total benign test loss: 12.268780648708344
+Total adversarial test loss: 26.146596312522888
+Model Saved!
+
+[ Train epoch: 38 ]
+
+Total adversarial train accuarcy: 59.27
+Total adversarial train loss: 399.41074323654175
+
+[ Test epoch: 38 ]
+
+Total benign test accuarcy: 81.29
+Total adversarial test Accuarcy: 51.5
+Total benign test loss: 12.594797790050507
+Total adversarial test loss: 26.117881059646606
+Model Saved!
+
+[ Train epoch: 39 ]
+
+Total adversarial train accuarcy: 59.35
+Total adversarial train loss: 397.5962658524513
+
+[ Test epoch: 39 ]
+
+Total benign test accuarcy: 81.63
+Total adversarial test Accuarcy: 49.87
+Total benign test loss: 11.890412628650665
+Total adversarial test loss: 27.450512290000916
+Model Saved!
+
+[ Train epoch: 40 ]
+
+Total adversarial train accuarcy: 59.302
+Total adversarial train loss: 395.93814820051193
+
+[ Test epoch: 40 ]
+
+Total benign test accuarcy: 79.02
+Total adversarial test Accuarcy: 50.65
+Total benign test loss: 12.775096535682678
+Total adversarial test loss: 27.522780537605286
+Model Saved!
+
+[ Train epoch: 41 ]
+
+Total adversarial train accuarcy: 59.758
+Total adversarial train loss: 389.86020839214325
+
+[ Test epoch: 41 ]
+
+Total benign test accuarcy: 80.82
+Total adversarial test Accuarcy: 49.46
+Total benign test loss: 12.11209625005722
+Total adversarial test loss: 27.655733108520508
+Model Saved!
+
+[ Train epoch: 42 ]
+
+Total adversarial train accuarcy: 60.232
+Total adversarial train loss: 387.0309347510338
+
+[ Test epoch: 42 ]
+
+Total benign test accuarcy: 81.35
+Total adversarial test Accuarcy: 50.63
+Total benign test loss: 12.584447801113129
+Total adversarial test loss: 27.0129177570343
+Model Saved!
+
+[ Train epoch: 43 ]
+
+Total adversarial train accuarcy: 60.476
+Total adversarial train loss: 386.6527118086815
+
+[ Test epoch: 43 ]
+
+Total benign test accuarcy: 81.8
+Total adversarial test Accuarcy: 50.0
+Total benign test loss: 11.867668390274048
+Total adversarial test loss: 27.295753359794617
+Model Saved!
+epoch  43 : best benign and adv accuracy:  81.8 ,  50.0
+
+[ Train epoch: 44 ]
+
+Total adversarial train accuarcy: 60.632
+Total adversarial train loss: 381.18412148952484
+
+[ Test epoch: 44 ]
+
+Total benign test accuarcy: 80.52
+Total adversarial test Accuarcy: 50.52
+Total benign test loss: 12.581828892230988
+Total adversarial test loss: 27.15141987800598
+Model Saved!
+
+[ Train epoch: 45 ]
+
+Total adversarial train accuarcy: 60.672
+Total adversarial train loss: 379.02001905441284
+
+[ Test epoch: 45 ]
+
+Total benign test accuarcy: 82.21
+Total adversarial test Accuarcy: 50.86
+Total benign test loss: 11.738982915878296
+Total adversarial test loss: 26.66498613357544
+Model Saved!
+epoch  45 : best benign and adv accuracy:  82.21 ,  50.86
+
+[ Train epoch: 46 ]
+
+Total adversarial train accuarcy: 61.016
+Total adversarial train loss: 377.54519325494766
+
+[ Test epoch: 46 ]
+
+Total benign test accuarcy: 81.31
+Total adversarial test Accuarcy: 50.54
+Total benign test loss: 12.318937122821808
+Total adversarial test loss: 26.910139441490173
+Model Saved!
+
+[ Train epoch: 47 ]
+
+Total adversarial train accuarcy: 61.492
+Total adversarial train loss: 372.24031311273575
+
+[ Test epoch: 47 ]
+
+Total benign test accuarcy: 80.85
+Total adversarial test Accuarcy: 50.32
+Total benign test loss: 12.605725705623627
+Total adversarial test loss: 27.44606614112854
+Model Saved!
+
+[ Train epoch: 48 ]
+
+Total adversarial train accuarcy: 61.78
+Total adversarial train loss: 370.8747418522835
+
+[ Test epoch: 48 ]
+
+Total benign test accuarcy: 81.54
+Total adversarial test Accuarcy: 49.72
+Total benign test loss: 12.001454770565033
+Total adversarial test loss: 27.77883493900299
+Model Saved!
+
+[ Train epoch: 49 ]
+
+Total adversarial train accuarcy: 61.728
+Total adversarial train loss: 367.2723312973976
+
+[ Test epoch: 49 ]
+
+Total benign test accuarcy: 79.35
+Total adversarial test Accuarcy: 50.36
+Total benign test loss: 13.08126151561737
+Total adversarial test loss: 27.618263721466064
+Model Saved!
+
+[ Train epoch: 50 ]
+
+Total adversarial train accuarcy: 61.9
+Total adversarial train loss: 366.3474950194359
+
+[ Test epoch: 50 ]
+
+Total benign test accuarcy: 81.29
+Total adversarial test Accuarcy: 50.29
+Total benign test loss: 11.620094060897827
+Total adversarial test loss: 28.117701768875122
+Model Saved!
+
+[ Train epoch: 51 ]
+
+Total adversarial train accuarcy: 62.156
+Total adversarial train loss: 362.8854349851608
+
+[ Test epoch: 51 ]
+
+Total benign test accuarcy: 82.12
+Total adversarial test Accuarcy: 49.67
+Total benign test loss: 11.44975733757019
+Total adversarial test loss: 28.508874773979187
+Model Saved!
+
+[ Train epoch: 52 ]
+
+Total adversarial train accuarcy: 62.386
+Total adversarial train loss: 360.2482411265373
+
+[ Test epoch: 52 ]
+
+Total benign test accuarcy: 80.08
+Total adversarial test Accuarcy: 50.33
+Total benign test loss: 12.374151766300201
+Total adversarial test loss: 27.693814039230347
+Model Saved!
+
+[ Train epoch: 53 ]

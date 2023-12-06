@@ -1,0 +1,6 @@
+checkpoint
+data
+__pycache__
+*.ipynb
+*.tar
+results
